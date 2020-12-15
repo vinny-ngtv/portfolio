@@ -68,6 +68,7 @@ p {
     border: 1px solid #dddddd;
     transition: background-color .3s;
     cursor: pointer;
+    pointer-events: none;
 }
 .nav-menu ul li:nth-child(1) {
     border-top-left-radius: 4px;
