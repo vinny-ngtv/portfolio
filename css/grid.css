@@ -1,0 +1,34 @@
+*, *:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1124px;
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
+}
+
+.container:after, .container:before {
+    content: " ";
+    display: table;
+}
+
+.container:after {
+    clear: both;
+}
+
+.grid-4, .grid-6, .grid-8, .grid-12 {
+    float: left;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.grid-4 { width: 364px; }
+.grid-6 { width: 554px; }
+.grid-8 { width: 744px; }
+.grid-12 { width: 1124px; }
