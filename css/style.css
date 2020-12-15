@@ -26,6 +26,21 @@ h2 {
 
 }
 
+h3 {
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 1.5em;
+    letter-spacing: 2px;
+    color: #333333;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5em;
+}
+
+/**/
+
 .header {
     display: flex;
     flex-direction: column;
@@ -71,3 +86,20 @@ h2 {
     word-break: keep-all;
 }
 
+.description {
+    margin-bottom: 16px;
+}
+
+.grid {
+    display: flex;
+}
+
+.pic-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.pic-column img {
+    width: 100%;
+    margin-bottom: 16px;
+}

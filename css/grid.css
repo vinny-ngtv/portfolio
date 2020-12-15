@@ -13,17 +13,7 @@
     position: relative;
 }
 
-.container:after, .container:before {
-    content: " ";
-    display: table;
-}
-
-.container:after {
-    clear: both;
-}
-
 .grid-4, .grid-6, .grid-8, .grid-12 {
-    float: left;
     margin-left: 8px;
     margin-right: 8px;
 }
