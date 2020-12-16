@@ -76,7 +76,6 @@ p {
 }
 
 .nav-menu ul li {
-    padding: 10px 20px;
     margin: 0;
     border: 1px solid #dddddd;
     transition: background-color .3s;
@@ -95,6 +94,9 @@ p {
 }
 
 .nav-menu ul li a {
+    display: inline-block;
+    padding: 10px 20px;
+    width: 100%;
     color: #666666;
     word-break: keep-all;
 }
