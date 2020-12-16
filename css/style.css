@@ -10,11 +10,11 @@
 
 body {
     font-family: "Raleway", Arial, sans-serif;
-    margin: 16px;
 }
 
 a {
     text-decoration: none;
+    color: unset;
 }
 
 h1 {
@@ -99,6 +99,10 @@ p {
     width: 100%;
     color: #666666;
     word-break: keep-all;
+}
+
+.content {
+    margin: 16px;
 }
 
 .section {
@@ -254,5 +258,56 @@ body.modal-open {
     .modal-image {
         width: 100%;
         height: auto;
+    }
+}
+
+.footer {
+    width: 100%;
+    padding: 24px 16px;
+    background-color: #111111;
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-content {
+    width: 1124px;
+    display: flex;
+}
+
+.footer-image {
+    width: 100px;
+}
+
+.footer-image-box {
+    margin-right: 16px;
+}
+
+.footer-span {
+    display: block;
+}
+.footer-span:nth-child(1) {
+    font-size: 24px;
+    margin-bottom: 4px;
+}
+.footer-span:nth-child(2) {
+    font-size: 16px;
+}
+
+@media screen and (max-width: 449px){
+    .footer-image {
+        width: 80px;
+    }
+}
+@media screen and (max-width: 359px){
+    .footer-image {
+        width: 60px;
+    }
+    .footer-span:nth-child(1) {
+         font-size: 20px;
+         margin-bottom: 4px;
+     }
+    .footer-span:nth-child(2) {
+        font-size: 14px;
     }
 }

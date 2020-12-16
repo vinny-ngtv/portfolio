@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="21dc764d-ce1c-4c66-8c95-645c35f51194" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/github-brands.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/perfil.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,12 +44,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1li0aVzrTmy19ljtIowbKvj4mcs" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="PluginDummyText.Genre" value="esoteric" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -52,18 +75,35 @@
       <option name="presentableId" value="Default" />
       <updated>1608064674104</updated>
       <workItem from="1608064676664" duration="12465000" />
-      <workItem from="1608129562836" duration="9105000" />
+      <workItem from="1608129562836" duration="10519000" />
+      <workItem from="1608153456333" duration="946000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1999" y="-157" width="653" height="680" key="dock-window-1" timestamp="1608148174317">
-      <screen x="1366" y="-157" width="1280" height="680" />
+    <state x="677" y="0" width="653" height="680" key="dock-window-1" timestamp="1608153774311">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="1999" y="-157" width="653" height="680" key="dock-window-1/0.0.1366.728/1366.-157.1280.680@0.0.1366.728" timestamp="1608148174317" />
+    <state x="677" y="0" width="653" height="680" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1608153774311" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1608072650221">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
