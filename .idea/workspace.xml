@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608064674104</updated>
       <workItem from="1608064676664" duration="12465000" />
-      <workItem from="1608129562836" duration="1322000" />
+      <workItem from="1608129562836" duration="7078000" />
     </task>
     <servers />
   </component>
@@ -60,10 +61,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1767" y="-105" width="686" height="714" maximized="true" key="dock-window-1" timestamp="1608130694901">
+    <state x="1999" y="-157" width="653" height="680" key="dock-window-1" timestamp="1608148174317">
       <screen x="1366" y="-157" width="1280" height="680" />
     </state>
-    <state x="1767" y="-105" width="686" height="714" maximized="true" key="dock-window-1/0.0.1366.728/1366.-157.1280.680@0.0.1366.728" timestamp="1608130694901" />
+    <state x="1999" y="-157" width="653" height="680" key="dock-window-1/0.0.1366.728/1366.-157.1280.680@0.0.1366.728" timestamp="1608148174317" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1608072650221">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
