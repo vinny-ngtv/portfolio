@@ -298,16 +298,16 @@ body.modal-open {
     .footer-image {
         width: 80px;
     }
+    .footer-span:nth-child(1) {
+        font-size: 20px;
+        margin-bottom: 4px;
+    }
+    .footer-span:nth-child(2) {
+        font-size: 14px;
+    }
 }
 @media screen and (max-width: 359px){
     .footer-image {
         width: 60px;
-    }
-    .footer-span:nth-child(1) {
-         font-size: 20px;
-         margin-bottom: 4px;
-     }
-    .footer-span:nth-child(2) {
-        font-size: 14px;
     }
 }
