@@ -276,7 +276,7 @@ body.modal-open {
 }
 
 .footer-image {
-    width: 100px;
+    width: 80px;
 }
 
 .footer-image-box {
@@ -296,7 +296,7 @@ body.modal-open {
 
 @media screen and (max-width: 449px){
     .footer-image {
-        width: 80px;
+        width: 60px;
     }
     .footer-span:nth-child(1) {
         font-size: 20px;
@@ -308,6 +308,6 @@ body.modal-open {
 }
 @media screen and (max-width: 359px){
     .footer-image {
-        width: 60px;
+        width: 40px;
     }
 }
