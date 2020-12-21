@@ -197,6 +197,11 @@ body.modal-open {
     padding: 16px;
 }
 
+.modal-description {
+    font-size: 18px;
+    line-height: 1.5em;
+}
+
 .modal-close-box {
     text-align: center;
     padding-bottom: 20px;

@@ -6,6 +6,9 @@ function modalOpen(element) {
     let modalImage = document.getElementById("modal_img");
     let modalDescription = document.getElementById("modal_txt");
 
+    modalImage.src = element.src;
+    modalDescription.innerHTML = element.alt;
+
     document.body.classList.add("modal-open");
 }
 
